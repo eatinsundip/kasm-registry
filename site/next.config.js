@@ -8,7 +8,7 @@ const nextConfig = {
     description: 'Collin\'s container store.',
     icon: '/img/logo.svg',
     listUrl: 'https://eatinsundip.github.io/kasm-registry',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/eatinsundip/kasm-registry/issues',
   },
   reactStrictMode: true,
   basePath: '/kasm-registry/1.0',
